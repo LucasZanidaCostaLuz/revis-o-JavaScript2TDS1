@@ -8,3 +8,6 @@ Contexto: A cada 3 ingressos comprados, o cliente ganha uma porção de batatas 
 
 Contexto: Uma banda de música está se apresentando e a plateia está super animada! Você precisa criar um programa que simule os aplausos da plateia, exibindo no console uma sequência de palmas "👏" de acordo com a intensidade escolhida pelo usuário.
 
+# Exercicio aula 3
+
+Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam seus hambúrgueres diretamente no código, sem precisar de interface gráfica. É a sua vez de programar essa experiência inovadora!
